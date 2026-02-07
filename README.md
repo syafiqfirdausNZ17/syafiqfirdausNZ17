@@ -15,4 +15,4 @@
 - Tableau / Matplotlib
 
 ## 🚀 Featured Projects
-Coming soon...
+📞Telco Customers Churn Analysis
