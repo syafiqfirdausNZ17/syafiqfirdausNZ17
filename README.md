@@ -1,7 +1,7 @@
 # Hi, I'm Syafiq Firdaus 👋
 
 💻 Data Scientist  
-📊 Skilled in Python, SQL, Machine Learning  
+📊 Skilled in Python, SQL, Machine Learning, Numerical Analysis  
 📈 Interested in predictive analytics & business insights
 ---
 ## 🚀 What I Work On
