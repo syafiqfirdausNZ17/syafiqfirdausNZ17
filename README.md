@@ -1,4 +1,4 @@
-# Hi, I'm Syafiq 👋
+# Hi, I'm Syafiq Firdaus 👋
 
 💻 Data Scientist  
 📊 Skilled in Python, SQL, Machine Learning  
