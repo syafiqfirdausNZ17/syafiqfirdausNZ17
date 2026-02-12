@@ -2,12 +2,12 @@
 
 💻 Data Scientist  
 📊 Skilled in Python, SQL, Machine Learning, Numerical Analysis  
-📈 Interested in predictive analytics & business insights  
+📈 Interested in predictive analytics, financial analytics & business intelligence  
 
 ---
 
 ## 🚀 What I Work On
-I build intelligent data solutions that help businesses reduce risk, detect patterns, and make smarter decisions.
+I build intelligent data systems that help businesses reduce risk, detect patterns, and make smarter decisions.
 
 - ❌ Credit Risk Prediction  
 - 🚫 Fraud Detection  
@@ -18,17 +18,10 @@ I build intelligent data solutions that help businesses reduce risk, detect patt
 
 ---
 
-## 🔧 Tools
-- Python (Pandas, Scikit-learn)
-- SQL
-- Tableau / Matplotlib
-
----
-
 ## 🔧 Tools & Technologies
 
 ### 💻 Programming & Data
-- Python (Pandas, Scikit-learn)  
+- Python (Pandas, Scikit-learn, XGBoost)  
 - SQL  
 
 ### 📊 Visualization
@@ -40,10 +33,13 @@ I build intelligent data solutions that help businesses reduce risk, detect patt
 - Time Series Forecasting  
 - Feature Engineering  
 - Model Evaluation & Tuning  
+- Business Decision Optimization  
 
 ---
 
 ## 🚀 Featured Projects
+
+---
 
 ### 🚗 Vehicle Demand Analysis & Forecasting (Malaysia 2025)
 An end-to-end **Market Intelligence & AI Forecasting System** analyzing vehicle registration data to predict market trends and generate strategic business insights.
@@ -57,6 +53,26 @@ An end-to-end **Market Intelligence & AI Forecasting System** analyzing vehicle 
 
 **Business Impact:**  
 Supports data-driven decisions in inventory planning, dealership expansion, EV strategy, and product portfolio optimization.
+
+---
+
+### 📊 Credit Risk Modelling — Logistic Regression vs XGBoost Strategy
+A full **credit risk prediction and lending strategy optimization system** designed to estimate loan default probability and simulate profit-driven approval decisions.
+
+This project goes beyond modelling and mirrors real-world banking analytics.
+
+**Project Highlights**
+- Outlier detection and realistic borrower filtering
+- Missing value handling and feature scaling
+- Logistic Regression (interpretable baseline)
+- XGBoost (advanced nonlinear model)
+- Class imbalance handling
+- Feature importance analysis
+- Probability threshold optimisation
+- Business simulation for profit maximization
+
+**Business Impact:**  
+Transforms ML predictions into **financial decision strategy**, optimizing loan approvals for maximum portfolio profitability rather than model accuracy alone.
 
 ---
 
