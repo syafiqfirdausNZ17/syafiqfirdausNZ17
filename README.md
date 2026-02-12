@@ -2,8 +2,10 @@
 
 💻 Data Scientist  
 📊 Skilled in Python, SQL, Machine Learning, Numerical Analysis  
-📈 Interested in predictive analytics & business insights
+📈 Interested in predictive analytics & business insights  
+
 ---
+
 ## 🚀 What I Work On
 I build intelligent data solutions that help businesses reduce risk, detect patterns, and make smarter decisions.
 
@@ -11,7 +13,9 @@ I build intelligent data solutions that help businesses reduce risk, detect patt
 - 🚫 Fraud Detection  
 - 🧑‍💼 Customer Segmentation  
 - 💹 Stock & Commodity Forecasting  
+- 🚗 Market Demand Forecasting  
 - 💻 Recommendation Systems  
+
 ---
 
 ## 🔧 Tools
@@ -33,12 +37,28 @@ I build intelligent data solutions that help businesses reduce risk, detect patt
 
 ### 🤖 Machine Learning
 - Classification & Regression  
+- Time Series Forecasting  
 - Feature Engineering  
 - Model Evaluation & Tuning  
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🚗 Vehicle Demand Analysis & Forecasting (Malaysia 2025)
+An end-to-end **Market Intelligence & AI Forecasting System** analyzing vehicle registration data to predict market trends and generate strategic business insights.
+
+**Project Highlights**
+- Multi-dimensional market analysis (brand, model, segment, region, EV)
+- Time-series demand forecasting across multiple levels
+- Model validation using backtesting and error metrics
+- AI-driven strategy recommendations
+- Opportunity scoring for regional market expansion
+
+**Business Impact:**  
+Supports data-driven decisions in inventory planning, dealership expansion, EV strategy, and product portfolio optimization.
+
+---
 
 ### 📞 Telco Customers Churn Analysis
 Developed a machine learning model to predict customer churn.
@@ -62,5 +82,3 @@ Developed a machine learning model to predict customer churn.
 
 ## 🤝 Let's Connect
 Always open to collaborating on data science, analytics, and ML projects!
-
-
